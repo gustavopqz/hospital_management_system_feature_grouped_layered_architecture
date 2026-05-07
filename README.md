@@ -15,7 +15,7 @@ The project is still in its early stages and will continue to grow over time wit
 - MongoDB
 - Docker
 - Zod
-- Vitest (configured, tests not yet implemented)
+- Vitest
 - Mongoose
 - bcryptjs
 - body-parser
@@ -91,18 +91,13 @@ pnpm test
 - [x] tsx
 - [x] tsup
 
-### Configured / ready to use / will be in the project
+### To Do
 
-- [ ] Vitest (configured, test suites not built yet)
+- [ ] Pagination
+- [ ] Tests (Vitest configured, test suites not built yet)
+- [ ] Error handling in general
 - [ ] API documentation (Swagger + Scalar not built yet)
-- [ ] Biome (not yet added)
-
-### Planned improvements
-
-- [ ] Better error handling in general
-- [ ] Build tests for all features
-- [ ] Build API reference documentation (Swagger + Scalar)
-- [ ] Add Biome for linting, formatting, or code quality checks
+- [ ] Biome for linting, formatting, or code quality checks
 
 ## Future Project Variants
 
