@@ -94,6 +94,8 @@ pnpm test
 ### To Do
 
 - [ ] Pagination
+- [ ] New features
+- [ ] File handling
 - [ ] Tests (Vitest configured, test suites not built yet)
 - [ ] Error handling in general
 - [ ] API documentation (Swagger + Scalar not built yet)
