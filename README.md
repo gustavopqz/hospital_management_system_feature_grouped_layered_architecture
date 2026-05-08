@@ -94,7 +94,8 @@ pnpm test
 ### To Do
 
 - [ ] Pagination
-- [ ] New features
+- [ ] Auth Middleware
+- [ ] New features (login, patient, queue)
 - [ ] File handling
 - [ ] Tests (Vitest configured, test suites not built yet)
 - [ ] Error handling in general
